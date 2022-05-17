@@ -7,6 +7,7 @@ import kotlinx.coroutines.launch
 
 class MainViewModel : ViewModel() {
 
+    // git checkoutRebase 하자
     // 수정사항 이거 수정사항
     // this is TempBranch11
     // this is Temp Branch 222

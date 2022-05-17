@@ -13,6 +13,9 @@ class MainViewModel : ViewModel() {
     // this is Temp Branch 222
     // 수정 완료
 
+
+    // temp branch 에서 rebase 후 머지 해보자ㅏㅏㅏ
+
     private val _userData : MutableStateFlow<List<User>> = MutableStateFlow(emptyList())
     val userData = _userData
 
